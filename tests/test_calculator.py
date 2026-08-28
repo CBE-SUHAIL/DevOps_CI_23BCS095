@@ -15,3 +15,7 @@ def test_multiply():
 
 def test_divide():
     assert divide(10, 2) == 5
+
+def test_cube():
+    from src.calculator import cube
+    assert cube(3) == 27
