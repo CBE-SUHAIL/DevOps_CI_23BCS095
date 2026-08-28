@@ -1,0 +1,22 @@
+Script started on Fri Aug 28 20:25:16 2026
+[1m[7m%[27m[1m[0m                                                                                                                                                                      ]7;file://Suhails-MacBook-Pro.local/Users/suhailsuffli/Desktop/DevOps_CI_23BCS095[0m[27m[24m[Jsuhailsuffli@Suhails-MacBook-Pro DevOps_CI_23BCS095 % [K[?2004h[7mgit init[27m[8D[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[?2004l
+Initialized empty Git repository in /Users/suhailsuffli/Desktop/DevOps_CI_23BCS095/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                                      ]7;file://Suhails-MacBook-Pro.local/Users/suhailsuffli/Desktop/DevOps_CI_23BCS095[0m[27m[24m[Jsuhailsuffli@Suhails-MacBook-Pro DevOps_CI_23BCS095 % [K[?2004h[7mgit config user.name "Mohammed Suhail"[27m
+[7mgit config user.email "YOUR_GITHUB_EMAIL"[27m[K[A[13C[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27mu[27ms[27me[27mr[27m.[27mn[27ma[27mm[27me[27m [27m"[27mM[27mo[27mh[27ma[27mm[27mm[27me[27md[27m [27mS[27mu[27mh[27ma[27mi[27ml[27m"[1B[27mg[27mi[27mt[27m [27mc[27mo[27mn[27mf[27mi[27mg[27m [27mu[27ms[27me[27mr[27m.[27me[27mm[27ma[27mi[27ml[27m [27m"[27mY[27mO[27mU[27mR[27m_[27mG[27mI[27mT[27mH[27mU[27mB[27m_[27mE[27mM[27mA[27mI[27mL[27m"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                      ]7;file://Suhails-MacBook-Pro.local/Users/suhailsuffli/Desktop/DevOps_CI_23BCS095[0m[27m[24m[Jsuhailsuffli@Suhails-MacBook-Pro DevOps_CI_23BCS095 % [K[?2004hgit config user.name "Mohammed Suhail"
+git config user.email "YOUR_GITHUB_EMAIL"[K" " " " " " " " " " " " " " " " " s"u"h"a"i"l"4"0"5"2"0"0"6"@"g"m"a"i"."" l"."c"o"m"[A[46C" " " " " " " " " " " " " " " C"B"E"-"S"I"" U"H"A"I"L"[?2004l[1B
+[1m[7m%[27m[1m[0m                                                                                                                                                                      ]7;file://Suhails-MacBook-Pro.local/Users/suhailsuffli/Desktop/DevOps_CI_23BCS095[0m[27m[24m[Jsuhailsuffli@Suhails-MacBook-Pro DevOps_CI_23BCS095 % [K[?2004h[7mgit status[27m[10D[27mg[27mi[27mt[27m [27ms[27mt[27ma[27mt[27mu[27ms[?2004l
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mREADME.md[m
+	[31mgit_execution.log[m
+	[31msrc/[m
+	[31mtests/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                                                                                      ]7;file://Suhails-MacBook-Pro.local/Users/suhailsuffli/Desktop/DevOps_CI_23BCS095[0m[27m[24m[Jsuhailsuffli@Suhails-MacBook-Pro DevOps_CI_23BCS095 % [K[?2004h  
