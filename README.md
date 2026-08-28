@@ -1,1 +1,1 @@
-# DevOps CI Pipeline - 23BCS095
+# DevOps Continuous Integration Pipeline - 23BCS095
