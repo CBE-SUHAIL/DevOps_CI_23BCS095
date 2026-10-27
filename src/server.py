@@ -1,7 +1,7 @@
 import json
 import logging
 import os
-from http.server import BaseHTTPRequestHandler, HTTPServer
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from src.calculator import add, subtract, multiply, divide
 
 VERSION = os.getenv("APP_VERSION", "v1")
@@ -56,4 +56,4 @@ class Handler(BaseHTTPRequestHandler):
 
 if __name__ == "__main__":
     logging.info("Starting calculator version %s on port 8000", VERSION)
-    HTTPServer(("0.0.0.0", 8000), Handler).serve_forever()
+    ThreadingHTTPServer(("0.0.0.0", 8000), Handler).serve_forever()
